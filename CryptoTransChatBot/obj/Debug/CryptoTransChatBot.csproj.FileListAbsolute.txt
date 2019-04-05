@@ -1,0 +1,12 @@
+D:\Projects\CryptoTransChatBot\CryptoTransChatBot\bin\CryptoTransChatBot.dll
+D:\Projects\CryptoTransChatBot\CryptoTransChatBot\bin\CryptoTransChatBot.pdb
+D:\Projects\CryptoTransChatBot\CryptoTransChatBot\obj\Debug\CryptoTransChatBot.dll
+D:\Projects\CryptoTransChatBot\CryptoTransChatBot\obj\Debug\CryptoTransChatBot.pdb
+D:\Projects\CryptoTransChatBot\CryptoTransChatBot\bin\CryptoTransChatBot.dll.config
+C:\Users\ajay_choudhary01\Downloads\AWS-Hackathon-master\AWS-Hackathon-master\AjayChoudhary-CryptoTransfer-ChatBot-V2\Code\CryptoTransChatBot\CryptoTransChatBot\bin\CryptoTransChatBot.dll.config
+C:\Users\ajay_choudhary01\Downloads\AWS-Hackathon-master\AWS-Hackathon-master\AjayChoudhary-CryptoTransfer-ChatBot-V2\Code\CryptoTransChatBot\CryptoTransChatBot\bin\CryptoTransChatBot.dll
+C:\Users\ajay_choudhary01\Downloads\AWS-Hackathon-master\AWS-Hackathon-master\AjayChoudhary-CryptoTransfer-ChatBot-V2\Code\CryptoTransChatBot\CryptoTransChatBot\bin\CryptoTransChatBot.pdb
+C:\Users\ajay_choudhary01\Downloads\AWS-Hackathon-master\AWS-Hackathon-master\AjayChoudhary-CryptoTransfer-ChatBot-V2\Code\CryptoTransChatBot\CryptoTransChatBot\obj\Debug\CryptoTransChatBot.csprojAssemblyReference.cache
+C:\Users\ajay_choudhary01\Downloads\AWS-Hackathon-master\AWS-Hackathon-master\AjayChoudhary-CryptoTransfer-ChatBot-V2\Code\CryptoTransChatBot\CryptoTransChatBot\obj\Debug\CryptoTransChatBot.csproj.CoreCompileInputs.cache
+C:\Users\ajay_choudhary01\Downloads\AWS-Hackathon-master\AWS-Hackathon-master\AjayChoudhary-CryptoTransfer-ChatBot-V2\Code\CryptoTransChatBot\CryptoTransChatBot\obj\Debug\CryptoTransChatBot.dll
+C:\Users\ajay_choudhary01\Downloads\AWS-Hackathon-master\AWS-Hackathon-master\AjayChoudhary-CryptoTransfer-ChatBot-V2\Code\CryptoTransChatBot\CryptoTransChatBot\obj\Debug\CryptoTransChatBot.pdb
